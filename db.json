@@ -12,8 +12,8 @@
     { "id": 1, "label": "Google", "url": "https://www.google.com/" },
     { "id": 2, "label": "YouTube", "url": "https://www.youtube.com/" },
     { "id": 3, "label": "Facebook", "url": "https://www.facebook.com/" }
-    ]
-  //"profile": {
-    //"name": "typicode"
-  //}
+    ],
+  "profile": {
+    "name": "typicode"
+  }
 }
