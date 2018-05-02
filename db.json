@@ -8,8 +8,8 @@
     { "id": 1, "body": "Google", "title": "https://www.google.com/", "postId": 1 },
     { "id": 2, "body": "YouTube", "title": "https://www.youtube.com/", "postId": 1 },
     { "id": 3, "body": "Facebook", "title": "https://www.facebook.com/", "postId": 1 },
-    { "id": 4, "body": "some comment", "postId": 1 },
-    { "id": 5, "body": "some comment", "postId": 1 }
+    { "id": 4, "body": "some comment", "title": "Post 1", "postId": 1 },
+    { "id": 5, "body": "some comment", "title": "Post 1", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
